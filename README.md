@@ -27,4 +27,13 @@ This is a simple **console-based Java application** that helps manage student re
 
 ## 📁 Project Structure
 
+StudentManagementSystem/
+├── src/
+│ ├── Student.java # Model class for student data
+│ ├── StudentManager.java # Business logic for managing students
+│ └── Main.java # Entry point with CLI interface
+├── test/
+│ └── StudentManagerTest.java # JUnit 5 test cases for StudentManager
+└── README.md # Project documentation
+
 
